@@ -15,7 +15,7 @@ Este projeto é o resultado do conhecimento adquirido durante o Explorer, até o
 
 ### Páginas
 
-Projeto Git - [Projeto](https://loreancarlos.github.io/Rocket-Sect/)
+Projeto Git - [Projeto](https://github.com/loreancarlos/Rocket-Sect/)
 
 ### O Desafio
 
