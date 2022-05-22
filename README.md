@@ -4,12 +4,12 @@ Este é o último desafio do Stage 02 do projeto Explorer da [RocketSeat](rocket
 
 ## Índice
 
-- [Comentários](#comentários)
+- [Projeto](#RocketSect)
   - [Screenshot](#screenshot)
   - [Tecnologias Utilizadas](#tecs)
   - [Autor](#autor)
 
-## Rocket Sect
+## RocketSect
 
 Este projeto é o resultado do conhecimento adquirido durante o Explorer, até o momento.  
 
